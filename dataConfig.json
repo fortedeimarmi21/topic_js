@@ -1,0 +1,11 @@
+{
+  "appType": "ts",
+  "deps": {
+      "rxjs": "6.6.3"
+  },
+  "description": "",
+  "entryFileId": "",
+  "files": [],
+  "tutorial": {},
+  "id": ""
+}
